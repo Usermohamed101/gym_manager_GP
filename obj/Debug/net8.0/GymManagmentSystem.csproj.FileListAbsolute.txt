@@ -152,3 +152,4 @@ E:\Learning Stuff\.net projects\GymManagmentSystem\GymManagmentSystem\GymManagme
 E:\Learning Stuff\.net projects\GymManagmentSystem\GymManagmentSystem\GymManagmentSystem\obj\Debug\net8.0\GymManagmentSystem.pdb
 E:\Learning Stuff\.net projects\GymManagmentSystem\GymManagmentSystem\GymManagmentSystem\obj\Debug\net8.0\GymManagmentSystem.genruntimeconfig.cache
 E:\Learning Stuff\.net projects\GymManagmentSystem\GymManagmentSystem\GymManagmentSystem\obj\Debug\net8.0\ref\GymManagmentSystem.dll
+E:\Learning Stuff\.net projects\GymManagmentSystem\GymManagmentSystem\GymManagmentSystem\obj\Debug\net8.0\GymManagmentSystem.sourcelink.json
